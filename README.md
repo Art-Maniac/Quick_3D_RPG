@@ -34,4 +34,4 @@ Spacebar- Attack
 
 <img src="https://user-images.githubusercontent.com/43541876/145345217-6a4ecd42-2005-4db4-a076-16c0480a3732.png" height="50px" width="50px"> Click this to open your inventory and drag and drop your weapon to equip.
 
-<img src="https://user-images.githubusercontent.com/43541876/145345380-5d1e996b-7409-4214-83f0-fdf9aeaf70de.png" height="50%" width="50%"> This menu in the top left shows your health satus.
+<img src="https://user-images.githubusercontent.com/43541876/145345380-5d1e996b-7409-4214-83f0-fdf9aeaf70de.png" height="10%" width="10%"> This menu in the top left shows your health satus.
