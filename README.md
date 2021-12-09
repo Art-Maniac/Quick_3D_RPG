@@ -6,6 +6,8 @@ Since a while we are working on a javascript based RPG game which can be played 
 
 You can play the game here: https://art-maniac.github.io/Quick_3D_RPG/
 
+Game demo video [**HERE.**](https://github.com/Art-Maniac/Quick_3D_RPG/blob/main/knock-a-ghost%20demo.mp4)
+
 ## About the game
 
 ### Objectives
