@@ -30,8 +30,8 @@ Spacebar- Attack
 
 ### Buttons
 
-![skills](https://user-images.githubusercontent.com/43541876/145345093-268927e2-ab4b-4445-8a83-c2eca06f0272.png = 50x50) Click this button to find out your XP !!
+![skills](https://user-images.githubusercontent.com/43541876/145345093-268927e2-ab4b-4445-8a83-c2eca06f0272.png =50x50) Click this button to find out your XP !!
 
-![backpack](https://user-images.githubusercontent.com/43541876/145345217-6a4ecd42-2005-4db4-a076-16c0480a3732.png = 50x50) Click this to open your inventory and drag and drop your weapon to equip.
+![backpack](https://user-images.githubusercontent.com/43541876/145345217-6a4ecd42-2005-4db4-a076-16c0480a3732.png =50x50) Click this to open your inventory and drag and drop your weapon to equip.
 
 ![health-bar](https://user-images.githubusercontent.com/43541876/145345380-5d1e996b-7409-4214-83f0-fdf9aeaf70de.png =50x50) This menu in the top left shows your health satus.
