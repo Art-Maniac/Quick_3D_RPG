@@ -30,7 +30,7 @@ Spacebar- Attack
 
 ### Buttons
 
-![skills](https://user-images.githubusercontent.com/43541876/145345093-268927e2-ab4b-4445-8a83-c2eca06f0272.png){:height="50%" width="50%"} Click this button to find out your XP !!
+<img src="https://user-images.githubusercontent.com/43541876/145345093-268927e2-ab4b-4445-8a83-c2eca06f0272.png" height="50px" width="50px"> Click this button to find out your XP !!
 
 ![backpack](https://user-images.githubusercontent.com/43541876/145345217-6a4ecd42-2005-4db4-a076-16c0480a3732.png){:height="50%" width="50%"} Click this to open your inventory and drag and drop your weapon to equip.
 
